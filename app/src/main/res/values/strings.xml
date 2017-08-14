@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShortCutsAndroid</string>
+    <string name="main_name">MainActivity</string>
+    <string name="second_name">SecondActivity</string>
+</resources>
